@@ -1,11 +1,11 @@
 # free-mail-list
-A list of free email.
+## A list of free email.
 
 The purpose of this project is for avoid spam and fraud user/login/etc.
 
 Service included:
 
-> Trusted List A
+### Free Trusted A
 AOL
 Google Mail
 Free.fr
@@ -18,7 +18,8 @@ Yahoo
 Yandex.Mail
 Zoho
 
-> Trusted List B
+### Free Trusted B
+Abcde...
 Aussiemail
 DCemail
 Inbox.com
@@ -31,5 +32,8 @@ SAFemail
 Zillamail
 VFEmail
 
-> Disposable List
+### Trial Trusted A
+Fastmail
+
+### Disposable List
 Cock.li
