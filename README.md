@@ -34,6 +34,7 @@ Service included:
 
 ### Trial Trusted A
 * Fastmail
+* Runbox
 
 ### Disposable List
 * Cock.li
