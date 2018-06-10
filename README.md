@@ -1,7 +1,7 @@
 # free-mail-list
 ## A list of free email.
 
-*......in case you need a unique domain for your mail/*
+*......in case you need a unique domain for your mail*
 
 
 The purpose of this project is for avoid spam and fraud user/login/etc.
